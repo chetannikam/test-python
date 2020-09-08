@@ -1,2 +1,3 @@
 # test-python
-This is my first python game-BlackJackGame
+This is BlackJackGame created by me in python language.......
+Feel free to ask if having any doubt
